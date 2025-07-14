@@ -35,6 +35,6 @@ Once on the map page:
 
 To remove the currently displayed route:
 
-    Select the (Choose a route) at the top of the dropdown.
+    Select the --Choose a route-- at the top of the dropdown.
 
     Or simply refresh the page.

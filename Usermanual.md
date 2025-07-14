@@ -3,7 +3,7 @@
 Welcome to UnsayJeep — your quick and easy tool to view jeepney routes in Davao City. This manual will help you navigate the site and install it like a mobile app.
 
 🌐 Visit the app here:
-👉 https://ummairmcm.github.io/UnsayJeep/
+👉 (https://ummairmcm.github.io/school-portfolio/)
 👋 1. Welcome Page
 
 When you open the site:
